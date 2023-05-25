@@ -3,3 +3,4 @@
 ## Trivial problems
 ### [Hello World](./trivial/hello-world/)
 ### [Cryptographer's Conundrum](./trivial/crypto-conundrum/)
+### [Metronome](./trivial/metronome/)
