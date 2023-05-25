@@ -1,4 +1,4 @@
-# Metronome
+# [Metronome](https://open.kattis.com/problems/metronome)
 ## Input
 - The single line of input contains a single integer $n$ $(1 \le n \le 10^5)$, which is the length of the song in ticks.
 ## Output
